@@ -1,0 +1,29 @@
+
+
+.row{
+  display: flex;
+  flex-direction: row;
+}
+
+.editor{
+  
+  /* padding: 80px; */
+  /* background-color: black; */
+
+}
+
+
+.output{
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin-top: 36px;
+}
+
+.run{
+  /* float: right; */
+  background-color: rgb(4, 126, 207);
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+}
