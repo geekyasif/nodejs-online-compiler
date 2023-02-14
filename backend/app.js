@@ -1,0 +1,1 @@
+console.log("Hellwo js", 10 + 5)

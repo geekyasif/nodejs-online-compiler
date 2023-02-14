@@ -1,12 +1,9 @@
-#include <iostream>
-#include<vector>
+#include<iostream>
+
 using namespace std;
 
-int main() {
-    int a = 5;
-    int b = 10;
+int main(){
 
-    cout << "Sum is : " << a + b << endl;
-
-  return 0;
+    cout<<"Helloworld";
+    return 0;
 }

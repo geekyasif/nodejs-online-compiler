@@ -27,3 +27,8 @@
   color: white;
   cursor: pointer;
 }
+
+.lang-btn-row{
+  display: flex;
+  flex-direction: row;
+}
